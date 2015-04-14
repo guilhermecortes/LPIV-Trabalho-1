@@ -1,0 +1,8 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+
+<ul class="nav nav-pills">
+  <li role="presentation"><a href="entrada.jsp">Entrada</a></li>
+  <li role="presentation"><a href="patio">Pátio</a></li>
+  <li role="presentation"><a href="eventos">Eventos</a></li>
+</ul>
